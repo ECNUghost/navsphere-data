@@ -16,7 +16,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "78d54ca9-c386-466a-b7e3-ac8d5fe0a91e",
+          "title": "二级分类",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
