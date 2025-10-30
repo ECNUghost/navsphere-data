@@ -23,7 +23,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1761809215144",
+              "title": "Google",
+              "href": "https://www.google.com.hk/",
+              "description": "",
+              "icon": "/assets/favicon_1761809234106.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
